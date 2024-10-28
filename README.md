@@ -1,12 +1,7 @@
-# Cow wisdom web server
 
-# MyFirstApp Docker Image
+# MyFirstApp Docker Image for AccuKnox Assignment..
 
 This repository provides a Docker image for running MyFirstApp.
-
-## Prerequisites
-
-- Docker : Ensure that Docker is installed on your machine. You can download Docker from the official website: [https://www.docker.com](https://www.docker.com)
 
 ## How to Run
 
@@ -39,13 +34,3 @@ If you want to use a different host port, you can modify the port mapping in the
 
 Make sure to update the URL accordingly when accessing the application.
 
-
-## License
-This project is licensed under the MIT License.
-
-``` 
-Feel free to customize and enhance this README file based on the specific details of your MyFirstApp Docker image and any additional instructions you'd like to provide.
- ```
-
-## What to expect?
-![cow wisdom](https://user-images.githubusercontent.com/9133227/225524281-e81a6673-5550-4db0-9bd0-63f9bbc7c2bc.png)
